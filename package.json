@@ -1,0 +1,19 @@
+{
+  "name": "webpack-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youzaiyouzai666/webpack-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youzaiyouzai666/webpack-kit/issues"
+  },
+  "homepage": "https://github.com/youzaiyouzai666/webpack-kit#readme"
+}
