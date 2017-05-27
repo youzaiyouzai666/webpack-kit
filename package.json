@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --hot --inline "
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/youzaiyouzai666/webpack-kit/issues"
   },
-  "homepage": "https://github.com/youzaiyouzai666/webpack-kit#readme"
+  "homepage": "https://github.com/youzaiyouzai666/webpack-kit#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "nodemon": "^1.11.0",
+    "webpack": "^1.15.0",
+    "webpack-dev-server": "^1.16.5"
+  }
 }
